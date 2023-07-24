@@ -9,11 +9,12 @@
 }
 
 .header {
+    padding-bottom: 100px;
     display: grid;
     grid-template: 291px / 370px 370px 370px;
     gap: 30px;
     padding-top: 100px;
-    padding-bottom: 100px;
+    
 }
 
 .head1 {
@@ -57,11 +58,12 @@
 }
 
 .main {
+    padding-top: 90px;
     background: #FAFAFA;
 }
 
 .main_text {
-    margin-top: 92px;
+    
     margin-bottom: 19px;
     margin-left: auto;
     margin-right: auto;
